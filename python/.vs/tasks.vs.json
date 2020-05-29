@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-avoid_reavers_DeepSarsa",
+      "appliesTo": "saida_agent_example/avoidReaver/avoid_reavers_DeepSarsa.py",
+      "type": "launch"
+    }
+  ]
+}
