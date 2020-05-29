@@ -18,7 +18,7 @@ References:
 [1] 	M. Čertický and D. Churchill, "The Current State of StarCraft AI Competitions and Bots," In Proceedings of the AIIDE 2017 Workshop on Artificial Intelligence for Strategy Games, 2017. 
 [2] 	M. Čertický, D. Churchill, K.-J. Kim, M. Čertický and R. Kelly, "StarCraft AI Competitions, Bots and Tournament Manager Software," IEEE Transactions on Games (ToG), vol. 1, no. 13, p. 1, 2018. 
 [3] 	D. Churchill, M. Preuss, F. Richoux, G. Synnaeve, A. Uriarte, S. Ontanón and M. Čertický, "Starcraft Bots and Competitions," in Encyclopedia of Computer Graphics and Games (ECGG), Springer International Publishing, 2016. 
-[4] 	TeamSAIDA, "SAIDA_RL," GitHub repository, 2019. 
+[4] 	TeamSAIDA, "SAIDA_RL," GitHub repository, 2019.
 [5] 	V. Mnih et al., "Playing Atari with Deep Reinforcement Learning," DeepMind Technologies. 
 [6] 	J. Schulman, F. Wolski, P. Dhariwal, A. Radford and O. Klimov, "Proximal Policy Optimization Algorithms," CoRR, vol. abs/1707.06347, 2017. 
 [7] 	L. Hardesty, "Explained: Neural Networks," MIT News Office, 2017. 
