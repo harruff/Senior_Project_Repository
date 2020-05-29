@@ -1,5 +1,5 @@
 # Senior_Project_Repository
-Project created by Ben Harruff
+Project created by Ben Harruff for Purdue University - Fort Wayne
 
 Proximal Policy Optimization, A2C style agent that can interact with StarCraft: Brood War environment scenarios. 
 Uses SAIDA tools as a framework, and Keras/Tensorflow. 
